@@ -1,3 +1,2 @@
 # Projects
-Random work
-Trying random works to see my improvement
+Trying random works and online examples to see my improvement
